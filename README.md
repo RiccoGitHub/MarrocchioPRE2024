@@ -1,5 +1,5 @@
 # MarrocchioPRE2024
-Modeling code for PRE paper "Links strength regulates correlations between stereocilium-deflection fluctuations"
+Modeling code for PRE paper "Links regulate deflection fluctuations in the sensory cells of hearing"
 
 The code has been developed using Mathematica 13.0.
 
